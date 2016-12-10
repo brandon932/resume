@@ -1,0 +1,140 @@
+{
+  "settings": {
+    "icons" : true
+  },
+  "firstname": "Brandon",
+  "familyname": "Thornton",
+  "linkedin_id": "brandon932",
+  "github_id": "brandon932",
+  "bio_data": {
+    "email": "brandon.t.932@gmail.com",
+    "phone": "+1 (720) 771-9884",
+    "website": "http://www.brandonthornton.com",
+    "stars": ["Javascript","Node","Web Development"],
+    "summary": {
+      "points":[
+        "Hard worker, quick learner, and has ability to assume responsibility",
+        "Competent at managing responsibilities in a high-volume atmosphere"
+      ]
+    },
+   
+    "skills": {
+      "details": [
+        {
+          "type": "Programming Languages",
+          "items": [
+            "Javascript",
+            "C#",
+            "SQL"
+          ]
+        },
+        {
+          "type": "Frameworks",
+          "items": [
+            "Angular",
+            "jQuery",
+            "Express",
+            "Bootstrap",
+            "Selenium"
+          ]
+        },
+        {
+          "type": "Databases",
+          "items": [
+            "PostgreSQL",
+            "MongoDB"
+          ]
+        },
+        {
+          "type": "Tools",
+          "items": [
+            "Bash",
+            "Wireshark",
+            "NMap",
+          ]
+        }
+      ]
+    },
+    "education": {
+      "show_gpa": false,
+      "schools": [
+
+        {
+          "degree": "Full Stack",
+          "major": "Web Development",
+          "institution": "Galvanize, Denver (CO)",
+          "graduation_year": 2015,
+          "gpa": "n/a"
+        },
+        {
+          "degree": "Associate of Applied Science",
+          "major": "Computer Network Technology",
+          "institution": "Arapahoe Community College",
+          "graduation_year": 2016,
+          "gpa": "3.05"
+        }
+      ]
+    },
+    "acad_achievements": {
+      "items": [
+        "Recognized on the President's List at Arapahoe Community College.",
+        "Placed on the Dean's List at Arapahoe Community College."
+      ]
+    },
+    "experience": {
+      "items": [
+        {
+          "title": "Blndspt",
+          "location": "Denver",
+          "from": "Febuary 2015",
+          "to": "Present",
+          "details": [
+            "Helped Build Shopping API for Hawaiian Airlines, Helped automate testing framework"
+          ],
+          "technology_used": {
+            "tools": [
+              "C#",
+              "DotNet",
+              "Soap",
+              "json",
+              "Selenium",
+              "SpecFlow",
+              "Javascript"
+            ]
+          }
+        },
+
+        {
+          "title": "Freelance Developer",
+          "location": "Denver",
+          "from": "July 2015",
+          "to": "Febuary 2016",
+          "details": [
+            "Developed a common web interface for client to post bounties for users to complete and get paid for."
+          ],
+          "technology_used": {
+            "tools": [
+              "Javascript",
+              "MongoDB",
+              "Bootstrap",
+              "Node",
+              "Swig",
+              "Stripe"
+            ]
+          }
+        },
+        {
+          "title": "Customer Service Representitive ",
+          "organisation": "Micro Center",
+          "location": "Denver",
+          "from": "Sept. 2014",
+          "to": "July 2015",
+          "details": [
+            "Was part of a team which Diagnosed, Checked in, and Repaired Computers",
+            "Worked Many positions such as Cashier, Web Orders, Returns, and customer service for computer repair"
+          ]
+        }
+      ]
+    }
+  }
+}
