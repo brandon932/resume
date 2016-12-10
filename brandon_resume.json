@@ -13,11 +13,11 @@
     "stars": ["Javascript","Node","Web Development"],
     "summary": {
       "points":[
-        "Hard worker, quick learner, and has ability to assume responsibility",
+        "Hard worker, quick learner, and the ability to assume responsibility",
         "Competent at managing responsibilities in a high-volume atmosphere"
       ]
     },
-   
+
     "skills": {
       "details": [
         {
@@ -25,7 +25,8 @@
           "items": [
             "Javascript",
             "C#",
-            "SQL"
+            "SQL",
+            "Bash"
           ]
         },
         {
@@ -48,9 +49,10 @@
         {
           "type": "Tools",
           "items": [
-            "Bash",
             "Wireshark",
             "NMap",
+            "Fiddler",
+            "Vim"
           ]
         }
       ]
@@ -84,12 +86,13 @@
     "experience": {
       "items": [
         {
-          "title": "Blndspt",
+          "title": "Backend Developer",
+          "organisation":"Blndspt",
           "location": "Denver",
           "from": "Febuary 2015",
           "to": "Present",
           "details": [
-            "Helped Build Shopping API for Hawaiian Airlines, Helped automate testing framework"
+            "Part of team that built Shopping API for Hawaiian Airlines, Helped automate testing framework"
           ],
           "technology_used": {
             "tools": [
@@ -105,12 +108,13 @@
         },
 
         {
-          "title": "Freelance Developer",
+          "title": "Fullstack Developer",
+          "organisation": "Freelance",
           "location": "Denver",
           "from": "July 2015",
           "to": "Febuary 2016",
           "details": [
-            "Developed a common web interface for client to post bounties for users to complete and get paid for."
+            "Developed a common web interface for client to post bounties for users to complete and get paid."
           ],
           "technology_used": {
             "tools": [
@@ -130,8 +134,8 @@
           "from": "Sept. 2014",
           "to": "July 2015",
           "details": [
-            "Was part of a team which Diagnosed, Checked in, and Repaired Computers",
-            "Worked Many positions such as Cashier, Web Orders, Returns, and customer service for computer repair"
+            "Member of a team That Diagnosed, Checked in, and Repaired Computers",
+            "Worked Many positions such as Cashier, Web Orders, Returns, and customer service for repairs"
           ]
         }
       ]
