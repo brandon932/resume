@@ -33,6 +33,7 @@
           "type": "Frameworks",
           "items": [
             "Angular",
+            "React",
             "jQuery",
             "Express",
             "Bootstrap",
@@ -43,15 +44,18 @@
           "type": "Databases",
           "items": [
             "PostgreSQL",
+            "Oracle",
             "MongoDB"
           ]
         },
         {
           "type": "Tools",
           "items": [
-            "Wireshark",
-            "NMap",
+            "Docker",
             "Fiddler",
+            "PostMan",
+            "Bash",
+            "Powershell", 
             "Vim"
           ]
         }
@@ -86,18 +90,22 @@
     "experience": {
       "items": [
         {
-          "title": "Backend Developer",
+          "title": "Fullstack Developer",
           "organisation":"Blndspt",
           "location": "Denver",
           "from": "Febuary 2015",
-          "to": "Present",
+          "to": "March 2020",
           "details": [
-            "Part of team that built Shopping API for Hawaiian Airlines, Helped automate testing framework"
+            "Part of a dynamic team to build many API's for Hawaiian Airlines, Helped automate testing framework"
           ],
           "technology_used": {
             "tools": [
+              "Angular",
+              "React",
               "C#",
               "DotNet",
+              "DotNet Core",
+              "Docker",
               "Soap",
               "json",
               "Selenium",
