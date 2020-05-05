@@ -1,0 +1,4 @@
+Resume Built with Json_resume
+To build out HTML run: json_resume convert brandon_resume.json
+To build out PDF run : json_resume convert brandon_resume.json --out html_pdf
+
