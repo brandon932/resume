@@ -1,0 +1,4 @@
+This Resume was buit with Json_resume 
+To build HTML : json_resume convert brandon_resume.json
+to build PDF :  json_resume convert brandon_resume.json --out html_pdf
+to build both use the build file : ./build
