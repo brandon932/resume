@@ -1,0 +1,5 @@
+#!/bin/bash 
+#converts to html
+json_resume convert brandon_resume.json
+#converts to pdf 
+json_resume convert brandon_resume.json --out html_pdf
