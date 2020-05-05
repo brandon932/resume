@@ -1,5 +1,0 @@
-#!/bin/bash
-#create simple build file for resume 
-
-json_resume convert brandon_resume.json
-json_resume convert brandon_resume.json --out html_pdf
