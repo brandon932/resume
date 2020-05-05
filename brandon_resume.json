@@ -9,7 +9,6 @@
   "bio_data": {
     "email": "brandon.t.932@gmail.com",
     "phone": "+1 (720) 771-9884",
-    "website": "http://www.brandonthornton.com",
     "stars": ["Javascript","Node","Web Development"],
     "summary": {
       "points":[
@@ -32,6 +31,8 @@
         {
           "type": "Frameworks",
           "items": [
+	    ".Net", 
+	    ".NetCore",
             "Angular",
             "React",
             "jQuery",
@@ -56,7 +57,10 @@
             "PostMan",
             "Bash",
             "Powershell", 
-            "Vim"
+            "Vim",
+	    "Windows",
+	    "Linux",
+	    "Mac" 
           ]
         }
       ]
@@ -93,10 +97,10 @@
           "title": "Fullstack Developer",
           "organisation":"Blndspt",
           "location": "Denver",
-          "from": "Febuary 2015",
+          "from": "Febuary 2016",
           "to": "March 2020",
           "details": [
-            "Part of a dynamic team to build many API's for Hawaiian Airlines, Helped automate testing framework"
+            "Contract developer to work on multiple agile and kanban teams for companies such as Hawaiian Airlines and Youngliving. Core team member that developed API's, microservices and front end solutions"
           ],
           "technology_used": {
             "tools": [
@@ -110,7 +114,8 @@
               "json",
               "Selenium",
               "SpecFlow",
-              "Javascript"
+              "Javascript",
+              "ect"
             ]
           }
         },
