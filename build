@@ -2,13 +2,15 @@
 #converts to html
 json_resume convert brandon_resume.json
 #converts to pdf
-echo pdf conversion broken create manual conversion with wkhtmltopdf
 #json_resume convert brandon_resume.json --out html_pdf
+echo pdf conversion broken create manual conversion with wkhtmltopdf
+
+# crazy work arround to remove the mobile.css file and use ngrok to recreate
+# how json_resume convert works.
+
+#wkhtmltopdf --page-size 'Letter' --margin-bottom '20' --margin-top '20' http://cff149603d0d.ngrok.io resume.pdf
 
 #wkhtmltopdf localhost:8080 brandon_thornton_resume
 
 #added step to rename resume
 #echo Renaming generated resume
-#mv resume.pdf brandon_thornton_resume.pdf
-
-echo done
