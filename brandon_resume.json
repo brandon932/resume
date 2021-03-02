@@ -31,8 +31,8 @@
         {
           "type": "Frameworks",
           "items": [
-	    ".Net", 
-	    ".NetCore",
+	          ".Net",
+	          ".NetCore",
             "Angular",
             "React",
             "jQuery",
@@ -56,11 +56,11 @@
             "Fiddler",
             "PostMan",
             "Bash",
-            "Powershell", 
+            "Powershell",
             "Vim",
 	    "Windows",
 	    "Linux",
-	    "Mac" 
+	    "Mac"
           ]
         }
       ]
@@ -100,7 +100,9 @@
           "from": "Febuary 2016",
           "to": "March 2020",
           "details": [
-            "Contract developer to work on multiple agile and kanban teams for companies such as Hawaiian Airlines and Youngliving. Core team member that developed API's, microservices and front end solutions"
+            "Core team member that developed API's, microservices and front end solutions",
+            "Young Living projects:<ul><li>built microservice to keep tract of inventory fluctuations</li><li>developed system to dynamicaly update promotions baised on inventory</li><li>created microservice to automate the management of marketing emails and reporting</li></ul>",
+            "Hawaiian Airlines projects:<ul><li>Integrated new Shoping API accross website</li><li>Added new features such as the premium seats feature to booking flow</li><li>Automated Unit testing across website with selenium</li></ul>"
           ],
           "technology_used": {
             "tools": [
@@ -111,11 +113,15 @@
               "DotNet Core",
               "Docker",
               "Soap",
-              "json",
+              "JSON",
+              "SQL",
               "Selenium",
               "SpecFlow",
               "Javascript",
-              "ect"
+              "Kafka",
+              "Jenkins",
+              "Octopus",
+              "Docker"
             ]
           }
         },

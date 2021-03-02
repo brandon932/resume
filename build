@@ -1,11 +1,14 @@
-#!/bin/bash 
+#!/bin/bash
 #converts to html
 json_resume convert brandon_resume.json
-#converts to pdf 
-json_resume convert brandon_resume.json --out html_pdf
+#converts to pdf
+echo pdf conversion broken create manual conversion with wkhtmltopdf
+#json_resume convert brandon_resume.json --out html_pdf
+
+#wkhtmltopdf localhost:8080 brandon_thornton_resume
 
 #added step to rename resume
-echo Renaming generated resume
-mv resume.pdf brandon_thornton_resume.pdf
+#echo Renaming generated resume
+#mv resume.pdf brandon_thornton_resume.pdf
 
 echo done
